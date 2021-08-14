@@ -1,0 +1,10 @@
+mu: [1, 1, 1, 1, 1, 1, 1]
+duration: 100
+warmup proportion: 0.4
+cost vect: []
+beta: 1
+time: continuous
+lamb = 1-epsilon/n: True
+random cost order: False
+additional info: 
+Run time: 0 seconds
